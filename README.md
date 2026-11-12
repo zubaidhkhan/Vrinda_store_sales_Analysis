@@ -43,17 +43,11 @@ Excel-based sales analytics project on 31,047 order records from Vrinda Store, a
 - Category names were standardised (for example `kurta` and `Kurta`)
 - Distinct Order IDs were used to count orders, since multi-item orders repeat IDs
 
-## 📁 Project Structure
-```
-├── Vrinda_Store_Data_Analysis_Vrinda_Store_.csv   # Raw data
-├── Vrinda_Store_Dashboard.xlsx                    # Pivot tables and dashboard
-└── README.md
-```
+
 
 ## 🚀 How to Use
 1. Open the Excel workbook and go to the **Dashboard** sheet
 2. Use the slicers to filter by month, channel, category or gender
 3. Go to Data → Refresh All if the source data changes
 
-## 👤 Author
-**[Your Name]** | [LinkedIn](#) | [GitHub](#)
+
